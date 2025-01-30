@@ -21,13 +21,13 @@ This project uses machine learning to predict house prices in Bangalore. The mod
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/Bangalore-House-Price-Prediction-Model.git
+1. Clone the repository: git clone [https://github.com/Renaulthr/Bangalore-Home-Prediction-app.git]
 2. Install required libraries: pip install -r requirements.txt
 3. Run the Flask app: python app.py
 
 ## Usage
 
-1. Open a web browser and navigate to http://localhost:5000
+1. Open a web browser and navigate to http://localhost:8080
 2. Input features such as area, bedrooms, and bathrooms
 3. Click "Predict" to get the predicted house price
 
